@@ -1,0 +1,19 @@
+{
+  "name": "lottie-colorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Colorizer.js",
+  "scripts": {
+    "start": "babel-node App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/node": "^7.22.19",
+    "@babel/preset-env": "^7.23.8",
+    "lodash": "^4.17.21",
+    "tinycolor2": "^1.6.0"
+  }
+}
